@@ -6,3 +6,6 @@
 *.a
 *.log
 *.manifest
+disort/nvram/*.nvram
+hello/hello.nvram
+hello/hello.null
